@@ -1,0 +1,6 @@
+moviepy==1.0.3
+pandas==1.2.3
+openpyxl==3.0.7
+scikit-posthocs==0.6.7
+
+
