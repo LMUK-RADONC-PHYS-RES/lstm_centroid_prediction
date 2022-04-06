@@ -25,4 +25,4 @@ to run a linear regression in an online fashion.
 
 ## Publication
 If you use this code in a scientific publication, please cite our paper:\ 
-Link here
+https://iopscience.iop.org/article/10.1088/1361-6560/ac60b7
