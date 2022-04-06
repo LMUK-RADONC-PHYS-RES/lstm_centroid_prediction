@@ -24,5 +24,5 @@ to run a linear regression in an online fashion.
 * The weights of the best models, metrics histories, etc. will be saved under `lstm_for_centroid_prediction/results`.
 
 ## Publication
-If you use this code in a scientific publication, please cite our paper:\ 
+If you use this code in a scientific publication, please cite our paper:
 https://iopscience.iop.org/article/10.1088/1361-6560/ac60b7
